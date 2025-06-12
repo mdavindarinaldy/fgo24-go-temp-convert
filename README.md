@@ -1,4 +1,4 @@
-# Project GO QUEUE GOROUTINES
+# Project GO TEMP CONVERT
 
 This project was made by Muhammad Davinda Rinaldy in Kodacademy Training Program. This project uses Go Language to make a temperature converter from celcius to kelvin or fahrenheit or reamur
 
